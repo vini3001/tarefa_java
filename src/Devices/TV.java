@@ -1,4 +1,4 @@
-package files.src.Devices;
+package Devices;
 
 public class TV implements IDevice {
     int initialVolume = volume;

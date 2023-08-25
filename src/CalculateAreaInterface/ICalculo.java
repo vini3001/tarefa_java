@@ -1,4 +1,4 @@
-package files.src.CalculateAreaInterface;
+package CalculateAreaInterface;
 
 public abstract interface ICalculo {
     public abstract void setCalculateArea(double side);

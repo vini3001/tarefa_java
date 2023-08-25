@@ -1,4 +1,4 @@
-package files.src.Devices;
+package Devices;
 
 public interface IDevice {
     int volume = 0;

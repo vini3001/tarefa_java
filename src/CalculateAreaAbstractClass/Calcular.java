@@ -1,4 +1,4 @@
-package files.src.CalculateAreaAbstractClass;
+package CalculateAreaAbstractClass;
 
 public abstract class Calcular {
     public void setCalculateArea(double side){};

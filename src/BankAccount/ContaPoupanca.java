@@ -1,4 +1,4 @@
-package files.src.BankAccount;
+package BankAccount;
 
 public class ContaPoupanca extends Conta implements IConta {
 

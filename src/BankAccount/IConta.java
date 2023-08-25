@@ -1,4 +1,4 @@
-package files.src.BankAccount;
+package BankAccount;
 
 public interface IConta {
     public void deposit(double value);

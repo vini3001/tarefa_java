@@ -1,9 +1,7 @@
-package files.src;
-
-import files.src.BankAccount.*;
-import files.src.CalculateAreaAbstractClass.*;
-import files.src.CalculateAreaInterface.*;
-import files.src.Devices.*;
+import BankAccount.*;
+import CalculateAreaAbstractClass.*;
+import CalculateAreaInterface.*;
+import Devices.*;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.

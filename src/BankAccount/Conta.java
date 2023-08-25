@@ -1,4 +1,4 @@
-package files.src.BankAccount;
+package BankAccount;
 
 public abstract class Conta {
     public int number;

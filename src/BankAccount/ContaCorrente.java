@@ -1,4 +1,4 @@
-package files.src.BankAccount;
+package BankAccount;
 
 public class ContaCorrente extends Conta implements IConta {
     @Override

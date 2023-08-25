@@ -1,4 +1,4 @@
-package files.src.CalculateAreaInterface;
+package CalculateAreaInterface;
 
 public class CalculateAreas implements ICalculo {
     public double side;

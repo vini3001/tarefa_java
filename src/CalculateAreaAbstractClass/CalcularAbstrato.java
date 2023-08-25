@@ -1,4 +1,4 @@
-package files.src.CalculateAreaAbstractClass;
+package CalculateAreaAbstractClass;
 
 public class CalcularAbstrato extends Calcular {
     @Override
